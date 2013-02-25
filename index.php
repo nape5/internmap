@@ -10,12 +10,12 @@ include('includes/header.php');
 ?>
 
 		<p>
-		InternMap.com is a Hyper Island student produtcion. Have you ever wanted to get that inside contact, or the real story about an agency? </p>
+		InternMap.com is a Hyper Island student produtcion. See what past students have been up to since leaving Hyper Island. </p>
 		
-		<p>Use this website to find the right person to ask! This is a space where students can log the agencies they work in, and see what the world can offer in terms of media and digital agencies.</p>
+		<p>Use this website to easily navigate the alumni network! This is a space where students can log the agencies they've worked in and find Hyper Island students near them.</p>
 		
 		<br />
-		Log in to add an internship, or feel free to browse different agencies and students. 
+		Log in to add a work place or past school. Feel free to browse the different agencies and students. 
 		<p/>
 		<hr />
 		
