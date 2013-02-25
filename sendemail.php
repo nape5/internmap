@@ -67,9 +67,9 @@ hr{
 </style>
 </head>
 <body>
-<span id='logotext'>INTERNMAP</span><img id='logo' src='http://internmap.com/images/logo.png' alt='intern map' /><br /><br />
+<span id='logotext'>INTERNMAP</span><img id='logo' src='http://internmap.alastiarwright.com/images/logo.png' alt='intern map' /><br /><br />
 Welcome to InternMap $firstname,<br /><br />
-To complete your registration, please click <a href='http://internmap.com/verify.php?pass=$random&hyper_email=$hyper_email'>here</a>.<br /><br />
+To complete your registration, please click <a href='http://internmap.alastiarwright.com/verify.php?pass=$random&hyper_email=$hyper_email'>here</a>.<br /><br />
 Thank you.
 <hr />
 </body>

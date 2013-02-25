@@ -117,9 +117,9 @@ if (isset($_POST['submitted'])) {
 			</style>
 			</head>
 			<body>
-			<span id='logotext'>INTERNMAP</span><img id='logo' src='http://internmap.com/images/logo.png' alt='intern map' /><br /><br />
+			<span id='logotext'>INTERNMAP</span><img id='logo' src='http://internmap.alastiarwright.com/images/logo.png' alt='intern map' /><br /><br />
 			Hello again $firstname,<br /><br />
-			To choose your new password, please click <a href='http://internmap.com/confirm.php?pass=$random'>here</a>.<br /><br />
+			To choose your new password, please click <a href='http://internmap.alastiarwright.com/confirm.php?pass=$random'>here</a>.<br /><br />
 			Thank you.
 			<hr />
 			</body>
