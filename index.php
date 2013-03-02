@@ -12,10 +12,10 @@ include('includes/header.php');
 		<p>
 		InternMap.com is a Hyper Island student produtcion. See what past students have been up to since leaving Hyper Island. </p>
 		
-		<p>Use this website to easily navigate the alumni network! Log where you've worked and find Hyper Island students near them.</p>
+		<p>Use this website to easily navigate the alumni network! Log where you've worked and find Hyper Island students near to you.</p>
 		
 		<br />
-		Log in to add a work place or past school. Feel free to browse the different business and industries that Hyper Island students have moved into. 
+		Log in to add a work place, past school or browse the different businesses and industries that Hyper Island students have moved onto. 
 		<p/>
 		<hr />
 		
